@@ -1,0 +1,44 @@
+  433  git status
+  434  git add .
+  435  git commit -m "add my_history_HW_LinuxTerminal.docx"
+  436  git push
+  437  mkdir JSON
+  438  mkdir XML
+  439  mkdir TXT
+  440  cd JSON
+  441  touch new.json
+  442  git status
+  443  cd ..
+  444  cd ..
+  445  git status
+  446  git add .
+  447  git commit -m "add new.json"
+  448  git push
+  449  cd /Ksendzov_courses_HW/JSON
+  450  cd Ksendzov_courses_HW/
+  451  cd JSON/
+  452  cat >> new.json 
+  453  cat >> new.json 
+  454  vim new.json 
+  455  git status
+  456  git add .
+  457  git commit -m "changes new.json"
+  458  git push
+  459  touch prferences.json
+  460  touch skill.json
+  461  mv prferences.json preferences.json
+  462  vim preferences.json 
+  463  vim skill.json 
+  464  git status
+  465  git add preferences.json skill.json 
+  466  git commit -m "new json-files"
+  467  git push
+  468  git fetch
+  469  cd ..
+  470  git fetch
+  471  cd ..
+  472  git fetch
+  473  git pull
+  474  history
+  475  cd Ksendzov_courses_HW/JSON/
+  476  history 122 >> git_history_JSON.txt
