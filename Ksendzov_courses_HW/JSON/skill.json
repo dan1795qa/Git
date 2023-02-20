@@ -1,0 +1,9 @@
+{
+	"skills": {
+		"basic theory": "SDLC, STLC",
+		"Postman": "JS, API autotests",
+		"Dev Tools": "Google Chrome, FireFox",
+		"Linux command line": "terminal",
+		"SQL": "Create, Delete, Drop, Select, From, Where, Join"
+	}
+}
