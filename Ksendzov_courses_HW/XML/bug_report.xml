@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+  <project>Тестирование поисковой системы Yandex</projec>
+  <document>Баг-репорт ID.1</document>
+  <req>REQ1</req>
+  <fun>Проверка возможности открытия сайта в браузере</fun>
+  <date>10.10.2022</date>
+  <name>Иван Иванов</name>
+  <Testing environment>PC, Google Chrome Версия 107.0.5304.106 (Официальная сборка) (64 бит)</Testing environment>
+  <steps>
+    <1>Открыть Google Chrome</1>
+    <2>Ввести в поисковую строку запрос https://yandex.ru/</2>
+    <3>Дождаться открытия страницы</3>
+    <4>Закрыть браузер</4>
+  </steps>
+  <ER>Открытие страницы https://yandex.ru/</ER>
+  <AR>Открытие страницы https://yandex.ru/</AR>
+  <status>Отсуствует, фактический результат соответсвует ожидаемому</status>
+  <severity>Critical</severity>
+  <priority>High</priority>
+  <attachment>ID.1.png</attachment>
+</bug_report>
