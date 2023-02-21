@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bug_report>
-  <project>Тестирование поисковой системы Yandex</projec>
+  <project>Тестирование поисковой системы Yandex</project>
   <document>Баг-репорт ID.1</document>
   <req>REQ1</req>
   <fun>Проверка возможности открытия сайта в браузере</fun>
   <date>10.10.2022</date>
   <name>Иван Иванов</name>
-  <Testing environment>PC, Google Chrome Версия 107.0.5304.106 (Официальная сборка) (64 бит)</Testing environment>
+  <Testing_environment>PC, Google Chrome Версия 107.0.5304.106 (Официальная сборка) (64 бит)</Testing_environment>
   <steps>
     <1>Открыть Google Chrome</1>
     <2>Ввести в поисковую строку запрос https://yandex.ru/</2>
