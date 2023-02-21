@@ -1,0 +1,22 @@
+  534  cd TXT/
+  535  touch new.txt
+  536  git add .
+  537  git commit -m "new.txt"
+  538  git push
+  539  vim new.txt 
+  540  git status
+  541  git add .
+  542  git commit -am "new changes"
+  543  git push
+  544  touch  preferences.txt
+  545  vim preferences.txt 
+  546  touch skills.txt
+  547  vim skills.txt 
+  548  git add .
+  549  git commit -m "new files"
+  550  git push
+  551  git fetch
+  552  git pull
+  553  history
+  554  history 20
+  555  history 22 >> git_history_TXT.txt
