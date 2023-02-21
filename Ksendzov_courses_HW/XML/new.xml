@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<name>Ivan</name>
+	<lastname>Ivanov</lastname>
+	<age>25</age>
+	<count_pets>2</count_pets>
+	<salary>2500$</salary>
+</data>
