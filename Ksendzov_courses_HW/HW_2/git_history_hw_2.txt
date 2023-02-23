@@ -1,0 +1,44 @@
+  513  git branch Postman
+  514  git branch Jmeter
+  515  git branch Checklist
+  516  git branch Bug_Reports
+  517  git branch SQL
+  518  git branch Charles
+  519  git branch Mobile_Testing
+  520  git branch
+  521  git status
+  522  git add .
+  523  git commit -m "new"
+  524  git push
+  525  git status
+  526  git branch
+  527  git push -u origin Bug_Reports
+  528  git push -u origin Charles 
+  529  git push -u origin Checklist 
+  530  git push -u origin Jmeter 
+  531  git push -u origin Mobile_Testing 
+  532  git push -u origin Postman 
+  533  git push -u origin SQL 
+  534  git checkout Bug_Reports 
+  535  touch bug_reports.txt
+  536  vim bug_reports.txt 
+  537  git status
+  538  git add .
+  539  git commit -m "bug_reports.txt"
+  540  git push
+  541  git checkout main
+  548  git merge Bug_Reports 
+  549  git push
+  550  git checkout Checklist 
+  551  touch checklist.txt
+  552  vim checklist.txt 
+  553  git status
+  554  git add .
+  555  git commit -m "checklist.txt"
+  556  git push
+  557  git checkout main
+  558  git fetch
+  559  git pull
+  560  ls
+  561  history
+  562  history 52 >> git_history_hw_2.txt
